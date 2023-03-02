@@ -1,0 +1,15 @@
+[Project]
+FileName=D:\Kuliah\Struktur_Data\Event_Organizer_Pernikahan.dp
+Name=Event_Organizer_Pernikahan
+MainUnit=D:\Kuliah\Struktur_Data\EventOrganizerPernikahan.pas
+UnitCount=1
+ResFiles=D:\Kuliah\Struktur_Data\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icons\Communication.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=D:\Kuliah\Struktur_Data\EventOrganizerPernikahan.pas
+FileTime=1324065876
